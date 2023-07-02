@@ -1,16 +1,11 @@
-# my_notes
+# Inspirio Note
 
-A new Flutter project.
 
-## Getting Started
+More than a simple note app...
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](./assets/read_img/img1-min.png)
+![](./assets/read_img/img2-min.png)
+![](./assets/read_img/img3-min.png)
+![](./assets/read_img/img4-min.png)
+![](./assets/read_img/img5-min.png)
+![](./assets/read_img/img6-min.png)
