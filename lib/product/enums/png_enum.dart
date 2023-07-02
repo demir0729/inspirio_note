@@ -1,0 +1,13 @@
+enum PngItems {
+  REMOVEIMG,
+  REMOVECLR,
+  BACKCLR,
+  COLOR,
+  FAMILY,
+  IMG,
+  CENTER,
+  LEFT,
+  SIZE,
+  MAGIC,
+  HEIGHT,
+}

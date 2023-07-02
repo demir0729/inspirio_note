@@ -1,0 +1,17 @@
+enum ImgItems {
+  ANDREA,
+  ANNIE,
+  BRIAN,
+  FILIP,
+  FIRE,
+  FRANTISEK,
+  IVANA,
+  MAX,
+  NICK,
+  OCEAN,
+  PATRICK,
+  SILAS,
+  SOLEN,
+  WATER,
+  TRANS,
+}

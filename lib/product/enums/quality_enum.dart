@@ -1,0 +1,4 @@
+enum JpgQualities {
+  max,
+  min,
+}
